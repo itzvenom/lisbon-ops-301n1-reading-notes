@@ -11,3 +11,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 02 - Network Scanning with NMAP](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-02-Network-scanning-with-NMAP)
 
 [Read: Class 03 - Network Segmentation](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-03---Network-Segmentation)
+
+[Read: Class 04 - Routing](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-04-Routing)
