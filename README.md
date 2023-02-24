@@ -13,3 +13,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 03 - Network Segmentation](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-03---Network-Segmentation)
 
 [Read: Class 04 - Routing](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-04-Routing)
+
+[Read: Class 05 - VPN Tunnel](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-05---VPN-Tunnel)
