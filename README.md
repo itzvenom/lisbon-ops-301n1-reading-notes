@@ -16,4 +16,4 @@ Tracking of observations and questions from the reading assignments throughout m
 
 [Read: Class 05 - VPN Tunnel](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-05---VPN-Tunnel)
 
-[Read: Class 06 - Network-Address-Translation](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-06---Network-Address-Translation)
+[Read: Class 06 - Network Address Translation](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-06---Network-Address-Translation)
