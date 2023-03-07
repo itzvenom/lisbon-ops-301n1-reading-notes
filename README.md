@@ -23,3 +23,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 08 - RADIUS Authentication](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-08-RADIUS-Authentication)
 
 [Read: Class 09 - Traffic Mirroring](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-09-Traffic-Mirroring)
+
+[Read: Class 10 - VPC](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-10-VPC)
