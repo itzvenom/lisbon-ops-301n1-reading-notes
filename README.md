@@ -27,3 +27,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 10 - VPC](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-10-VPC)
 
 [Read: Class 11 - Windows Server](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-11-Windows-Server)
+
+[Read: Class 12 - Domain Controller](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-12---Domain-Controller)
