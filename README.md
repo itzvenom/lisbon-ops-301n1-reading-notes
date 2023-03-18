@@ -29,3 +29,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 11 - Windows Server](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-11-Windows-Server)
 
 [Read: Class 12 - Domain Controller](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-12---Domain-Controller)
+
+[Read: Class 13 - Active Directory](https://github.com/itzvenom/reading-notes/wiki/Read:-Class-13---Active-Directory)
