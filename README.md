@@ -1,6 +1,6 @@
-# reading-notes
+# Lisbon-ops-301n1 reading-notes
 
-Tracking of observations and questions from the reading assignments throughout my course.
+Tracking of observations and questions from the reading assignments throughout my [CodeFellows Ops 301: Networking and Systems Administration](https://www.codefellows.org/courses/ops-301/networking-and-systems-administration/) course by [<Academia de Código_>](https://www.cybersecurity.academiadecodigo.org/).
 
 ## TABLE OF CONTENTS:
 
